@@ -4,7 +4,3 @@ dbf
 fndznfdznzfdnzfdn
 zfdn
 d
-gnfdzn
-ZeroDivisionErrorzdn
-zd
-ndzzgnzdn
